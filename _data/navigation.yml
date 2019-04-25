@@ -2,15 +2,9 @@
 
 - text: Home
   url: /
-- text: Bath Products
-  url: /bath products
- - text: Houseware
-  url: /houseware
-- text: Parties & Snacks
-  url: /partiessnacks
-- text: Cards & Individual Gifts
-  url: /cardsandindividualgifts
-- text: Gift Baskets
-  url: /giftbaskets
+- text: Products
+  url: /about
 - text: Contact
   url: /contact
+- text: 
+  url: /blog
