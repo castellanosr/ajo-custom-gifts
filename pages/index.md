@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Welcome
+title: Customized, Handcrafted Gifts
 permalink: /
 section: home
 intro_paragraph: >
-  Future retail site for A.J. Wells' Custom gifts.
+  Welcome to A. J. Wells’ custom gifts! We create high-quality, handcrafted gifts for any occasion. All of our products are one hundred percent customizable. Enjoy!
   
 ---
